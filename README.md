@@ -26,12 +26,11 @@ The goal was to create a 3D model from a 2D sketch and practice fundamental CAD 
 
 ## Final Result
 
-See the `images/` directory for the final model render.
+See the report file for the final model render.
 
 ## Files
-
-- `model/` — CAD model files and exported formats, where available.
-- `images/` — Rendered images of the completed model.
+- `model` — CAD model files and exported formats, where available.
+- `image` — Rendered image of the completed model.
 - `docs/` — University laboratory report.
 
 ## Context
