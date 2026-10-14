@@ -6,6 +6,8 @@ This project contains a custom 3D chess piece modeled in SolidWorks as part of a
 
 The goal was to create a 3D model from a 2D sketch and practice fundamental CAD modeling techniques.
 
+![3D chess piece modeled in SolidWorks](chess-piece.jpg)
+
 ## Tools and Techniques
 
 - **Software:** SolidWorks
